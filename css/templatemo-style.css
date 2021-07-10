@@ -10,7 +10,8 @@ body {
 	font-size: 14px;
 	font-weight: 400;
 }
-a { color: #ffffff;  }
+a { 	color: rgb(49, 56, 70);
+}
 a, button { transition: all 0.3s ease; }
 a:hover,
 a:focus {
@@ -92,14 +93,16 @@ a:focus {
 }
 
 .tm-section-intro-text {
-	font-size: 2rem;
+	font-size: 1rem;
 	margin-bottom: 4rem;
 	width: 100%;
+	color: rgb(49, 56, 70);
+
 }
 
 .tm-btn-white-big {
     font-size: 2.4rem;
-    color: #a1c7f1;
+    color: rgb(49, 56, 70);
     background-color: white;
 	
     padding: 0.75rem 2.5rem;
@@ -122,7 +125,7 @@ a:focus {
 }
 
 .tm-carousel-item-title {
-	color: #666;
+	color: rgb(49, 56, 70);
 	font-size: 2.1rem;
 	font-weight: 300;
 	margin-bottom: 3rem;
@@ -131,7 +134,8 @@ a:focus {
 .tm-carousel-item-text {
 	font-size: 1.3rem;
     line-height: 1.6;
-    color: #666;
+	color: #666;
+
     font-weight: 300;
 }
 
@@ -199,7 +203,8 @@ a:focus {
 }
 
 .tm-2-col-text-title {
-	color: #666;
+	color: rgb(49, 56, 70);
+
     font-size: 1.9rem;
     font-weight: 300;
     margin-bottom: 5%;    
@@ -243,18 +248,21 @@ a:focus {
 	padding-bottom: 6rem;
 }
 
-.tm-blue-bg-row { background-color: #b9d6f4; }
+.tm-blue-bg-row { background-color:rgb(178, 182, 192) ;
+ }
 
 .tm-section-title {
 	font-size: 2.1rem;
 	margin-bottom: 1.8rem;
-}
+	color: rgb(49, 56, 70);}
 
 .tm-section-subtitle {
 	font-size: 1.4rem;
 	line-height: 1.6;
 	max-width: 700px;
 	margin: 0 auto 5rem;
+	color: rgb(29, 39, 48);
+
 }
 
 .tm-icon-text-box {
@@ -345,8 +353,8 @@ textarea.form-control {
 hr { width: 65%; }
 
 .tm-copyright-text {
-	color: #999999;
-	font-size: 1.3rem;
+	color: rgb(49, 56, 70);
+		font-size: 1.3rem;
 	padding-top: 3%;
 	padding-bottom: 3%;
 }
