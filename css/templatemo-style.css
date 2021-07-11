@@ -1,12 +1,6 @@
-/*
 
-Ocean Theme
-
-http://www.templatemo.com/tm-484-ocean
-
------------------------------*/
 body {
-	font-family: 'B612', sans-serif;	
+	font-family: 'Montserrat', sans-serif;	
 	font-size: 14px;
 	font-weight: 400;
 }
@@ -17,6 +11,7 @@ a:hover,
 a:focus {
 	text-decoration: none;
 	outline: none;
+	
 	
 }
 .image {
@@ -80,7 +75,7 @@ a:focus {
 	        flex-direction: column;
 }
 
-/* IE bug fix */
+
 .tm-wrapper-center > * {
 	-ms-flex: 0 1 auto;
 		-webkit-flex: 0 1 auto;
@@ -276,7 +271,7 @@ a:focus {
 	color: #81b4eb;
 	margin-bottom: 2rem;
 	width: 100%;
-	text-align: center; /*http://stackoverflow.com/questions/19162889/how-to-center-font-awesome-icons-horizontally*/
+	text-align: center; 
 }
 
 .tm-icon-text-boxes-container {
