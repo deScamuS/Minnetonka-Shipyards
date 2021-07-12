@@ -45,12 +45,12 @@ a:focus {
 /* 1. Intro 
 --------------------*/
 .tm-section-intro {
-	background-image: url(../img/misty.JPG);
+	background-image: url(../img/island.jpeg);
 	opacity:.9;
 	background-attachment: fixed;
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-size: 100% 800px;
+	background-size: 100% 900px;
 	color: rgb(49, 56, 70);
 	display: -webkit-flex;
 	display: -ms-flexbox;
